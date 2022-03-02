@@ -1,0 +1,2 @@
+# Prekladace
+Školní předmět
