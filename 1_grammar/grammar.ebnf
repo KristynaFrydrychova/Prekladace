@@ -1,0 +1,16 @@
+syntax=expr | fce;
+expr=term, expr1;
+expr1="+",term,expr1 |;
+term=factor, term1;
+term1="*", factor, term1 |;
+factor="(", expr , ")" | number;
+number=hexaNum | intNum | binNum;
+hexaNum="0x", hexaDigit, {hexaDigit};
+intNum="0" | nonZeroDigits, {digits};
+binNum="b", binDigit, {binDigit};
+hexaDigit="1"|"2"|"3"|"4"|"5"|"6"|"7"|"8"|"9"|"0"|"A"|"B"|"C"|"D"|"E"|"F";
+nonZeroDigits="1"|"2"|"3"|"4"|"5"|"6"|"7"|"8"|"9";
+digits="1"|"2"|"3"|"4"|"5"|"6"|"7"|"8"|"9"|"0";
+binDigit="0"|"1";
+fce=fceName, "(", expr, ")";
+fceName="inkr" | "dekr";

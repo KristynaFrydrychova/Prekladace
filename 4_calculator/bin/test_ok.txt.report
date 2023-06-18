@@ -1,0 +1,260 @@
+Entering the mainRule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule2
+Klasický tvar: 0
+
+Rule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 1
+
+Rule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 12
+
+Rule15
+Rule13
+Rule11
+Rule9
+Rule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule7
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 5
+
+Rule15
+Rule13
+Rule15
+Rule13
+Rule11
+Rule10
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 15
+
+Rule15
+Rule13
+Rule15
+Rule13
+Rule11
+Rule10
+Rule9
+Rule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule7
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 5
+
+Rule15
+Rule13
+Rule11
+Rule9
+Rule15
+Rule13
+Rule15
+Rule13
+Rule11
+Rule10
+Rule9
+Rule8
+Rule7
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 7
+
+Rule15
+Rule13
+Rule11
+Rule9
+Rule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule7
+Rule6
+Rule12
+Rule15
+Rule13
+Rule11
+Rule10
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 9
+
+Rule15
+Rule13
+Rule15
+Rule13
+Rule11
+Rule9
+Rule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule7
+Rule6
+Rule12
+Rule11
+Rule10
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 20
+
+Rule16
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 1
+
+Rule16
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 9
+
+Rule14
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 2803
+
+Rule15
+Rule13
+Rule11
+Rule9
+Rule14
+Rule13
+Rule16
+Rule13
+Rule11
+Rule10
+Rule9
+Rule8
+Rule7
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 736
+
+Rule16
+Rule13
+Rule11
+Rule9
+Rule16
+Rule13
+Rule11
+Rule9
+Rule8
+Rule7
+Rule6
+Rule12
+Rule15
+Rule13
+Rule11
+Rule10
+Rule9
+Rule8
+Rule6
+Rule3
+Syntax OK, Rule1
+Klasický tvar: 24
+
+Rule16
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule17
+InkrementaceRule4
+Syntax OK, Rule1
+Klasický tvar: 4
+
+Rule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule17
+InkrementaceRule4
+Syntax OK, Rule1
+Klasický tvar: 5
+
+Rule15
+Rule13
+Rule11
+Rule9
+Rule15
+Rule13
+Rule11
+Rule9
+Rule8
+Rule7
+Rule6
+Rule18
+DekrementaceRule5
+Syntax OK, Rule1
+Klasický tvar: 6
+
+Rule14
+Rule13
+Rule11
+Rule9
+Rule8
+Rule6
+Rule18
+DekrementaceRule5
+Syntax OK, Rule1
+Klasický tvar: 139
+
